@@ -1,3 +1,8 @@
+dosen't work this script.
+http://dev.twitter.com/doc/get/statuses/user_timeline
+>This method is can only return up to 3200 statuses. If include_rts is set only 3200 statuses, including retweets if they exist, can be returned.
+
+
 token owner's backup
 php backup.php
 --
