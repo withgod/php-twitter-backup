@@ -1,0 +1,8 @@
+token owner's backup
+php backup.php
+--
+specific user's backup
+php backup.php (user_id_string|screen_name)
+php backup.php 11111
+php backup.php withgod
+
